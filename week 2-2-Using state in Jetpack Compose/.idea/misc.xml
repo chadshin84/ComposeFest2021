@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/compose-model-1636699418273.xml" value="0.3409090909090909" />
+        <entry key="../../../../../../../layout/compose-model-1636699431125.xml" value="0.10549733165290884" />
+        <entry key="../../../../../../../layout/compose-model-1636699431127.xml" value="0.38753499821544224" />
+        <entry key="start/src/main/res/layout/activity_hello_codelab.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
