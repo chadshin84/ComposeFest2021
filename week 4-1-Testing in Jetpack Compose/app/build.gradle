@@ -87,6 +87,10 @@ android {
 
 dependencies {
 
+    androidTestImplementation "androidx.compose.ui:ui-test-junit4:$version"
+
+    debugImplementation "androidx.compose.ui:ui-test-manifest:$rootProject.composeVersion"
+
     implementation "androidx.appcompat:appcompat:$rootProject.appCompatVersion"
     implementation "androidx.core:core-ktx:$rootProject.ktxVersion"
     implementation "com.google.android.material:material:$rootProject.materialVersion"
